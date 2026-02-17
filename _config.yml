@@ -1,4 +1,4 @@
-name: Kylie Ying
+name: Faysal Mahmud
 # permalink: /:title/
 # baseurl: https://kylieying.com
 # baseurl: ""
@@ -9,4 +9,4 @@ plugins:
   - jekyll-seo-tag
 
 # Google Analytics
-google_analytics: 
+google_analytics: G-G22GSQM33V
