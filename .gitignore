@@ -11,3 +11,6 @@ _site/
 vendor/
 Gemfile
 Gemfile.lock
+
+#run
+bundle exec jekyll serve
