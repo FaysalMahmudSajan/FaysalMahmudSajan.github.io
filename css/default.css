@@ -3792,7 +3792,7 @@ button.close{
 }
 body{
     /* padding:10px; */
-    min-height:90vh
+    min-height:95vh
 }
 body.minimal{
     border:none;
