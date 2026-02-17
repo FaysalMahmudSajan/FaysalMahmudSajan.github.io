@@ -3799,14 +3799,14 @@ body.minimal{
     padding:0
 }
 .hero-full-container{
-    height:90vh
+    height:100vh
 }
 .hero-full-container h1{
     font-family:Roboto,Helvetica,Arial,sans-serif;
     font-weight:900
 }
 .hero-full-container .hero-full-wrapper{
-    display:flex;
+    display:table;
     width:100%;
     height:90vh;
     min-height:90vh
@@ -3849,7 +3849,7 @@ body.minimal{
 .background-image-container{
     background-size:cover;
     background-repeat:no-repeat;
-    background-position: 65%;
+    background-position: 85%;
 }
 .btn{
     -webkit-transition:all .2s linear;
