@@ -1,7 +1,6 @@
-# Personal Website
+## My Personal Website
 
-Templates used:
+Welcome to my personal portfolio! This contains my resume / some selected personal projects I've pursued.
 
-https://www.free-css.com/free-css-templates/page270/univers
+This site uses Bootstrap, a template released by Blackrock Digital LLC (licensed under the MIT license). Thanks David Miller (of Blackrock Digital LLC) for your hard work.
 
-https://github.com/P0WEX/Gesko
