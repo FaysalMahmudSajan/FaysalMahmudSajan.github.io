@@ -423,14 +423,13 @@
             </div>
           </div>
 
-            <script>
-              function copyText() {
-                var text = document.getElementById("phoneNumber").innerText;
-                navigator.clipboard.writeText(text).then(function() {
-                  alert("Copied: " + text);
-                });
-              }
-            </script>
+          <script>
+            function copyText() {
+              var text = document.getElementById("phoneNumber").innerText;
+              navigator.clipboard.writeText(text);
+            
+            }
+          </script>
 
           
       </div>
